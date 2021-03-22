@@ -12,3 +12,7 @@
 .card-row{
     width: 90%;
 }
+.card{
+    background-color:#00acc1;
+    border-radius: 50px 50px 50px 50px;
+}
