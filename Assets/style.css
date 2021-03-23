@@ -21,4 +21,7 @@
 }
 .btn-large:hover {
     background-color: RoyalBlue;
-  }
+}
+.page-container{
+    background-color: #bbdefb
+}
